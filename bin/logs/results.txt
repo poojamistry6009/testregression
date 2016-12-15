@@ -1,0 +1,271 @@
+[2016-12-14 20:02:56.507] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-14 20:02:59.768] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-14 20:03:02.034] [ERROR] results - CASE FAILED : notification-/api/customlist/results = notification.txt
+[2016-12-14 20:03:04.230] [ERROR] results - RETRIED CASE FAILED 1 time : notification-/api/customlist/results =notification.txt
+[2016-12-14 20:03:06.387] [ERROR] results - RETRIED CASE FAILED 2 time : notification-/api/customlist/results =notification.txt
+[2016-12-14 20:03:08.559] [ERROR] results - RETRIED CASE FAILED 3 time : notification-/api/customlist/results =notification.txt
+[2016-12-14 20:03:10.801] [ERROR] results - RETRIED CASE FAILED 4 time : notification-/api/customlist/results =notification.txt
+[2016-12-14 20:04:57.012] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-14 20:05:00.212] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-14 20:05:02.577] [ERROR] results - CASE FAILED : task-/api/task/save = task.txt
+[2016-12-14 20:05:04.936] [ERROR] results - RETRIED CASE FAILED 1 time : task-/api/task/save =task.txt
+[2016-12-14 20:05:07.280] [ERROR] results - RETRIED CASE FAILED 2 time : task-/api/task/save =task.txt
+[2016-12-14 20:05:09.514] [ERROR] results - RETRIED CASE FAILED 3 time : task-/api/task/save =task.txt
+[2016-12-14 20:05:11.791] [ERROR] results - RETRIED CASE FAILED 4 time : task-/api/task/save =task.txt
+[2016-12-14 20:07:02.972] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-14 20:07:06.415] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-14 20:07:08.805] [ERROR] results - CASE FAILED : memo-/api/memo/save = memo.txt
+[2016-12-14 20:07:11.075] [ERROR] results - RETRIED CASE FAILED 1 time : memo-/api/memo/save =memo.txt
+[2016-12-14 20:07:13.512] [ERROR] results - RETRIED CASE FAILED 2 time : memo-/api/memo/save =memo.txt
+[2016-12-14 20:07:15.797] [ERROR] results - RETRIED CASE FAILED 3 time : memo-/api/memo/save =memo.txt
+[2016-12-14 20:07:18.031] [ERROR] results - RETRIED CASE FAILED 4 time : memo-/api/memo/save =memo.txt
+[2016-12-15 11:50:42.127] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 11:50:45.669] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 11:50:48.169] [INFO] results - CASE PASSED : opportunity-/api/opportunity/save
+[2016-12-15 11:51:35.275] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 11:51:38.411] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 11:51:40.610] [INFO] results - CASE PASSED : opportunity-/api/opportunity/save
+[2016-12-15 11:59:39.941] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 11:59:43.241] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 11:59:45.475] [ERROR] results - CASE FAILED : opportunity-/api/opportunity/retrieve = opportunity.txt
+[2016-12-15 11:59:47.710] [ERROR] results - RETRIED CASE FAILED 1 time : opportunity-/api/opportunity/retrieve =opportunity.txt
+[2016-12-15 11:59:50.289] [ERROR] results - RETRIED CASE FAILED 2 time : opportunity-/api/opportunity/retrieve =opportunity.txt
+[2016-12-15 11:59:52.367] [ERROR] results - RETRIED CASE FAILED 3 time : opportunity-/api/opportunity/retrieve =opportunity.txt
+[2016-12-15 11:59:55.158] [ERROR] results - RETRIED CASE FAILED 4 time : opportunity-/api/opportunity/retrieve =opportunity.txt
+[2016-12-15 12:02:01.263] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 12:02:05.107] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 12:32:56.461] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 12:33:00.738] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 12:35:06.992] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 12:35:10.476] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 12:42:04.790] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 12:42:08.110] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 12:43:53.362] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 12:43:56.978] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:37:22.642] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:37:24.863] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:40:22.145] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:40:24.291] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:40:25.516] [ERROR] results - CASE FAILED : patient-/api/patient/retrieve = patient.txt
+[2016-12-15 13:40:26.755] [ERROR] results - RETRIED CASE FAILED 1 time : patient-/api/patient/retrieve =patient.txt
+[2016-12-15 13:40:28.036] [ERROR] results - RETRIED CASE FAILED 2 time : patient-/api/patient/retrieve =patient.txt
+[2016-12-15 13:40:29.237] [ERROR] results - RETRIED CASE FAILED 3 time : patient-/api/patient/retrieve =patient.txt
+[2016-12-15 13:40:30.489] [ERROR] results - RETRIED CASE FAILED 4 time : patient-/api/patient/retrieve =patient.txt
+[2016-12-15 13:43:20.595] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:43:23.017] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:45:25.788] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:45:28.061] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:45:29.197] [INFO] results - CASE PASSED : workflowtemplate-/api/admin/rulesengine/templates/save
+[2016-12-15 13:48:45.175] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:48:48.418] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:49:37.653] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:49:38.990] [ERROR] results - CASE FAILED : message-/api/commcenter/message/send = message.txt
+[2016-12-15 13:49:40.228] [ERROR] results - RETRIED CASE FAILED 1 time : message-/api/commcenter/message/send =message.txt
+[2016-12-15 13:49:41.525] [ERROR] results - RETRIED CASE FAILED 2 time : message-/api/commcenter/message/send =message.txt
+[2016-12-15 13:49:42.737] [ERROR] results - RETRIED CASE FAILED 3 time : message-/api/commcenter/message/send =message.txt
+[2016-12-15 13:49:43.952] [ERROR] results - RETRIED CASE FAILED 4 time : message-/api/commcenter/message/send =message.txt
+[2016-12-15 13:52:30.584] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 13:52:32.716] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 13:52:33.906] [ERROR] results - CASE FAILED : message-/api/customlist/results = message.txt
+[2016-12-15 13:52:35.108] [ERROR] results - RETRIED CASE FAILED 1 time : message-/api/customlist/results =message.txt
+[2016-12-15 13:52:36.233] [ERROR] results - RETRIED CASE FAILED 2 time : message-/api/customlist/results =message.txt
+[2016-12-15 13:52:37.470] [ERROR] results - RETRIED CASE FAILED 3 time : message-/api/customlist/results =message.txt
+[2016-12-15 13:52:38.602] [ERROR] results - RETRIED CASE FAILED 4 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:19:22.808] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:19:25.381] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:19:26.537] [ERROR] results - CASE FAILED : message-/api/customlist/results = message.txt
+[2016-12-15 14:19:27.681] [ERROR] results - RETRIED CASE FAILED 1 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:19:28.849] [ERROR] results - RETRIED CASE FAILED 2 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:19:29.953] [ERROR] results - RETRIED CASE FAILED 3 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:19:31.089] [ERROR] results - RETRIED CASE FAILED 4 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:26:06.899] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:26:09.012] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:26:10.099] [ERROR] results - CASE FAILED : message-/api/customlist/results = message.txt
+[2016-12-15 14:26:11.208] [ERROR] results - RETRIED CASE FAILED 1 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:26:12.350] [ERROR] results - RETRIED CASE FAILED 2 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:26:13.484] [ERROR] results - RETRIED CASE FAILED 3 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:26:14.576] [ERROR] results - RETRIED CASE FAILED 4 time : message-/api/customlist/results =message.txt
+[2016-12-15 14:34:25.201] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:34:27.615] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:35:27.820] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:35:30.198] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:39:08.148] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:39:10.508] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:40:54.846] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:40:57.217] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:41:56.185] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:41:58.386] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:42:37.153] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:42:39.562] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:47:14.487] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:47:16.728] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:47:17.579] [ERROR] results - CASE FAILED : userAuthentication-/auth/login = userAuthentication.txt
+[2016-12-15 14:47:17.580] [INFO] results - CASE PASSED : userAuthentication-/auth/login
+[2016-12-15 14:48:57.135] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:48:59.223] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:49:00.401] [ERROR] results - CASE FAILED : userAuthentication-/auth/login = userAuthentication.txt
+[2016-12-15 14:49:00.402] [INFO] results - CASE PASSED : userAuthentication-/auth/login
+[2016-12-15 14:49:49.151] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:49:51.427] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:49:52.700] [INFO] results - CASE PASSED : userAuthentication-/auth/login
+[2016-12-15 14:54:18.530] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:54:20.875] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:54:22.021] [INFO] results - CASE PASSED : accessControl-/api/admin/uac/tree/save
+[2016-12-15 14:54:44.758] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:54:47.196] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:54:48.314] [ERROR] results - CASE FAILED : accessControl-/api/admin/uac/tree/save = accessControl.txt
+[2016-12-15 14:54:49.402] [ERROR] results - RETRIED CASE FAILED 1 time : accessControl-/api/admin/uac/tree/save =accessControl.txt
+[2016-12-15 14:54:50.547] [ERROR] results - RETRIED CASE FAILED 2 time : accessControl-/api/admin/uac/tree/save =accessControl.txt
+[2016-12-15 14:54:51.647] [ERROR] results - RETRIED CASE FAILED 3 time : accessControl-/api/admin/uac/tree/save =accessControl.txt
+[2016-12-15 14:54:52.770] [ERROR] results - RETRIED CASE FAILED 4 time : accessControl-/api/admin/uac/tree/save =accessControl.txt
+[2016-12-15 14:57:25.932] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 14:57:28.194] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 14:57:29.422] [ERROR] results - CASE FAILED : accessControl-/api/admin/uac/tree/retrieve = accessControl.txt
+[2016-12-15 14:57:30.596] [ERROR] results - RETRIED CASE FAILED 1 time : accessControl-/api/admin/uac/tree/retrieve =accessControl.txt
+[2016-12-15 14:57:31.761] [ERROR] results - RETRIED CASE FAILED 2 time : accessControl-/api/admin/uac/tree/retrieve =accessControl.txt
+[2016-12-15 14:57:32.933] [ERROR] results - RETRIED CASE FAILED 3 time : accessControl-/api/admin/uac/tree/retrieve =accessControl.txt
+[2016-12-15 14:57:34.165] [ERROR] results - RETRIED CASE FAILED 4 time : accessControl-/api/admin/uac/tree/retrieve =accessControl.txt
+[2016-12-15 15:06:48.126] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:06:50.337] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:06:51.469] [ERROR] results - CASE FAILED : accessControl-/api/admin/uac/node/child/add = accessControl.txt
+[2016-12-15 15:06:52.642] [ERROR] results - RETRIED CASE FAILED 1 time : accessControl-/api/admin/uac/node/child/add =accessControl.txt
+[2016-12-15 15:06:53.754] [ERROR] results - RETRIED CASE FAILED 2 time : accessControl-/api/admin/uac/node/child/add =accessControl.txt
+[2016-12-15 15:06:54.854] [ERROR] results - RETRIED CASE FAILED 3 time : accessControl-/api/admin/uac/node/child/add =accessControl.txt
+[2016-12-15 15:06:55.970] [ERROR] results - RETRIED CASE FAILED 4 time : accessControl-/api/admin/uac/node/child/add =accessControl.txt
+[2016-12-15 15:08:18.945] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:08:21.107] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:08:22.297] [ERROR] results - CASE FAILED : accessControl-/api/admin/uac/node/user/add = accessControl.txt
+[2016-12-15 15:08:23.443] [ERROR] results - RETRIED CASE FAILED 1 time : accessControl-/api/admin/uac/node/user/add =accessControl.txt
+[2016-12-15 15:08:24.739] [ERROR] results - RETRIED CASE FAILED 2 time : accessControl-/api/admin/uac/node/user/add =accessControl.txt
+[2016-12-15 15:08:25.905] [ERROR] results - RETRIED CASE FAILED 3 time : accessControl-/api/admin/uac/node/user/add =accessControl.txt
+[2016-12-15 15:08:27.059] [ERROR] results - RETRIED CASE FAILED 4 time : accessControl-/api/admin/uac/node/user/add =accessControl.txt
+[2016-12-15 15:12:35.710] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:12:37.801] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:12:39.006] [ERROR] results - CASE FAILED : accessControl-/api/admin/uac/node/organization/add = accessControl.txt
+[2016-12-15 15:12:40.188] [ERROR] results - RETRIED CASE FAILED 1 time : accessControl-/api/admin/uac/node/organization/add =accessControl.txt
+[2016-12-15 15:12:41.324] [ERROR] results - RETRIED CASE FAILED 2 time : accessControl-/api/admin/uac/node/organization/add =accessControl.txt
+[2016-12-15 15:12:42.538] [ERROR] results - RETRIED CASE FAILED 3 time : accessControl-/api/admin/uac/node/organization/add =accessControl.txt
+[2016-12-15 15:12:43.717] [ERROR] results - RETRIED CASE FAILED 4 time : accessControl-/api/admin/uac/node/organization/add =accessControl.txt
+[2016-12-15 15:13:58.802] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:14:00.929] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:15:28.196] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:15:30.505] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:17:11.399] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:17:13.558] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:17:14.926] [ERROR] results - CASE FAILED : calendar-/api/commcenter/calendar/list = calendar.txt
+[2016-12-15 15:17:16.361] [ERROR] results - RETRIED CASE FAILED 1 time : calendar-/api/commcenter/calendar/list =calendar.txt
+[2016-12-15 15:17:17.774] [ERROR] results - RETRIED CASE FAILED 2 time : calendar-/api/commcenter/calendar/list =calendar.txt
+[2016-12-15 15:17:19.230] [ERROR] results - RETRIED CASE FAILED 3 time : calendar-/api/commcenter/calendar/list =calendar.txt
+[2016-12-15 15:17:20.632] [ERROR] results - RETRIED CASE FAILED 4 time : calendar-/api/commcenter/calendar/list =calendar.txt
+[2016-12-15 15:27:46.503] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:27:48.758] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:27:50.002] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:27:51.132] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:27:52.257] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:27:53.372] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:27:54.466] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:27:55.635] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:27:56.747] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:27:57.882] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:27:58.995] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:00.098] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:01.169] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:02.326] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:28:03.391] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:04.477] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:05.651] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:06.721] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:07.862] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:28:08.970] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:10.062] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:11.148] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:12.224] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:13.379] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:28:14.500] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:15.587] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:16.693] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:17.852] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:18.928] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:28:20.086] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:21.246] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:22.353] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:28:23.459] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:01.595] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:30:04.006] [INFO] results - CASE PASSED : sessionInitialize.init
+[2016-12-15 15:30:05.274] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:05.275] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:06.542] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:06.542] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:07.827] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:07.828] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:09.105] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:09.105] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:10.374] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:10.376] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:11.658] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:11.658] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:12.999] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:12.999] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:14.321] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:14.321] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:15.600] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:15.600] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:16.866] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:16.871] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:17.984] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:17.985] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:19.092] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:19.092] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:20.211] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:20.211] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:21.319] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:21.319] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:22.439] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:22.440] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:23.550] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:23.551] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:24.700] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:24.700] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:25.815] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:25.815] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:26.955] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:26.956] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:28.073] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:28.075] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:29.170] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:29.170] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:30.265] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:30.265] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:31.431] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:31.432] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:32.572] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:32.572] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:33.678] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:33.682] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:34.787] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:34.787] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:35.885] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:35.885] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:36.978] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:36.979] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:38.083] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:38.083] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:39.203] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:39.208] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:40.324] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:40.324] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:41.429] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:41.429] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:42.549] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:42.549] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:43.662] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:43.663] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:44.773] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:44.779] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:45.971] [ERROR] results - CASE FAILED : search-OBJECT SEARCH FUNCTION = search.txt
+[2016-12-15 15:30:47.125] [ERROR] results - RETRIED CASE FAILED 1 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:48.243] [ERROR] results - RETRIED CASE FAILED 2 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:49.371] [ERROR] results - RETRIED CASE FAILED 3 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:30:50.523] [ERROR] results - RETRIED CASE FAILED 4 time : search-OBJECT SEARCH FUNCTION =search.txt
+[2016-12-15 15:36:39.866] [INFO] results - CASE PASSED : userAuthentication.login
+[2016-12-15 15:36:42.211] [INFO] results - CASE PASSED : sessionInitialize.init

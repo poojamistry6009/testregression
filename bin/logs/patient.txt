@@ -1,0 +1,16 @@
+[2016-12-15 13:37:26.312] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:27.648] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:27.648] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:29.087] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:29.087] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:29.087] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:30.581] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:30.581] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:30.581] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:30.581] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:31.902] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:31.902] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:31.902] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:31.902] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:37:31.902] [ERROR] patient - undefined doesn't match 2016Dec15133721
+[2016-12-15 13:40:30.490] [ERROR] patient - patient-/api/patient/retrieve : 	{"messageType":"response","errorCode":501,"errorMessage":null}

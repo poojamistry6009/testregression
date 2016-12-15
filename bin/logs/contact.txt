@@ -1,0 +1,4 @@
+[2016-12-14 18:42:47.798] [ERROR] contact - contact-/api/contact/save-Contactt : 	{"messageType":"response","errorCode":405,"errorMessage":"Invalid request"}
+[2016-12-14 18:44:25.891] [ERROR] contact - contact-/api/contact/save-Providerr : 	{"messageType":"response","errorCode":405,"errorMessage":"Invalid request"}
+[2016-12-14 18:49:20.862] [ERROR] contact - contact-/api/contact/retrieve-Contact : 	{"messageType":"response","errorCode":111,"errorMessage":"Contact with ID '' not found"}
+[2016-12-14 18:50:24.720] [ERROR] contact - contact-/api/contact/retrieve-Providerr : 	{"messageType":"response","errorCode":111,"errorMessage":"Contact with ID '' not found"}

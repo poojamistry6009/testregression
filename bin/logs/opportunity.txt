@@ -1,0 +1,1 @@
+[2016-12-15 11:59:55.158] [ERROR] opportunity - opportunity-/api/opportunity/retrieve : 	{"messageType":"response","errorCode":111,"errorMessage":"Opportunity with ID '' not found"}

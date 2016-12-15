@@ -1,0 +1,2 @@
+[2016-12-14 15:30:31.719] [ERROR] notification - notification.customListResultResults : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}
+[2016-12-14 20:03:10.801] [ERROR] notification - notification-/api/customlist/results : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}

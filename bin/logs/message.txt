@@ -1,0 +1,4 @@
+[2016-12-15 13:49:43.954] [ERROR] message - message-/api/commcenter/message/send : 	{"messageType":"response","errorCode":501,"errorMessage":null}
+[2016-12-15 13:52:38.603] [ERROR] message - message-/api/customlist/results : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}
+[2016-12-15 14:19:31.089] [ERROR] message - message-/api/customlist/results : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}
+[2016-12-15 14:26:14.578] [ERROR] message - message-/api/customlist/results : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}

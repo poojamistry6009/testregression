@@ -1,0 +1,5 @@
+[2016-12-14 16:36:50.295] [ERROR] organization - organization-/api/organization/save : 	{"messageType":"response","errorCode":405,"errorMessage":"'Buch, Manthan manthan.buch@indusa.com' does not have a sales territory on this organization.Please remove this Sales Rep."}
+[2016-12-14 16:38:54.171] [ERROR] organization - organization-/api/organization/retrieve : 	{"messageType":"response","errorCode":111,"errorMessage":"Organization with ID '' not found"}
+[2016-12-14 16:47:47.794] [ERROR] organization - organization-/api/customlist/results - Org Activities CustomList : 	{"messageType":"response","errorCode":405,"errorMessage":"View Id is empty"}
+[2016-12-14 18:06:43.544] [ERROR] organization - organization-/api/organization/retrieve - data validation : 	{"messageType":"response","errorCode":111,"errorMessage":"Organization with ID '' not found"}
+[2016-12-14 19:12:57.184] [ERROR] organization - organization-/api/organization/save : 	{"messageType":"response","errorCode":405,"errorMessage":"'Buch, Manthan manthan.buch@indusa.com' does not have a sales territory on this organization.Please remove this Sales Rep."}

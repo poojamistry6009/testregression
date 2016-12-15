@@ -1,0 +1,2 @@
+[2016-12-14 18:03:59.843] [ERROR] memo - memo-/api/memo/retrieve : 	{"messageType":"response","errorCode":405,"errorMessage":"Missing id of activity to load"}
+[2016-12-14 20:07:18.031] [ERROR] memo - memo-/api/memo/save : 	{"messageType":"response","errorCode":405,"errorMessage":"Organization cannot be empty or related item is associated with more than one organization"}

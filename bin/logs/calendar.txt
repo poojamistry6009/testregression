@@ -1,0 +1,1 @@
+[2016-12-15 15:17:20.633] [ERROR] calendar - calendar-/api/commcenter/calendar/list : 	"Task object not found in calendar list !"
